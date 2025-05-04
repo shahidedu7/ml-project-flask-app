@@ -1,0 +1,2 @@
+# ml-project-flask-app
+This is a complete flask app for ml classification project build on Pima Indians Diabetes dataset.
